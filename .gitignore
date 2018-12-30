@@ -28,3 +28,34 @@
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java
+gs-reactive-rest-service.iml
+RxJava.iml
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml
+.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_1_RELEASE.xml
+.idea/libraries/Maven__io_projectreactor_reactor_test_unknown.xml
+.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_0_2.xml
+.idea/libraries/Maven__junit_junit_4_12.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml
+.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml
+.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml
+.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml
+.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml
+.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_2_RELEASE.xml
+.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_3_RELEASE.xml
+.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_unknown.xml
+.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_webflux_5_0_7_RELEASE.xml
