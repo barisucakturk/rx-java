@@ -78,15 +78,6 @@ public class Operators {
         //toMultiMap
         Observable.just("xy", "yz","tz","tyz","z").toMultimap(String::length).subscribe(s -> System.out.println(s));
 
-        //onError
-        Observable.just(5, 2, 4, 0, 3, 2, 8)
-                .map(i -> 10 / i)
-                .onErrorReturn(e -> - 1)
-                .subscribe(i -> System.out.println("RECEIVED: " + i),
-                        e -> System.out.println("RECEIVED ERROR: " + e)
-                );
-
-
     }
 
     public static void sleep(int millis) {
